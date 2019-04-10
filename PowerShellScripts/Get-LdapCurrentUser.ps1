@@ -1,6 +1,6 @@
 #requires -version 2
 
-$Global:PowerViewServer = ""
+$Global:PowerViewServer = "MBIAIDCPW003.asia.intl.cigna.com"
 
 <#
 
